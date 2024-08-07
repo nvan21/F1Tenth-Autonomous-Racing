@@ -1,7 +1,7 @@
 # F1Tenth Autonomous Racing Algorithm
 
-This repository uses the [UPenn F1Tenth simulator](https://github.com/f1tenth/f1tenth_simulator?tab=readme-ov-file) and ROS to simulate autonomous driving. The final algorithm I used was a modified follow the gap. The brainstorming process is documented below.
-(/Smooth%20Lap.gif)
+This repository uses the [UPenn F1Tenth simulator](https://github.com/f1tenth/f1tenth_simulator?tab=readme-ov-file) and ROS to simulate autonomous driving around the Nurburgring race track. The goal of the project was to drive two laps: one as fast as possible, and one as smooth as possible. The final algorithm I used was a modified follow the gap and the brainstorming process is documented below.
+![Video of the smooth lap](/Smooth%20Lap.gif)
 
 # Brainstorming
 
