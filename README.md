@@ -1,6 +1,7 @@
 # F1Tenth Autonomous Racing Algorithm
 
 This repository uses the [UPenn F1Tenth simulator](https://github.com/f1tenth/f1tenth_simulator?tab=readme-ov-file) and ROS to simulate autonomous driving. The final algorithm I used was a modified follow the gap. The brainstorming process is documented below.
+(/Smooth%20Lap.gif)
 
 # Brainstorming
 
